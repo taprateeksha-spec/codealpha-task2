@@ -1,0 +1,5 @@
+Stock: TCS, Quantity: 4, Value: 14000
+Stock: RELIANCE, Quantity: 10, Value: 29000
+Stock: HDFC, Quantity: 23, Value: 41400
+
+Total Investment Value = 84400
